@@ -79,7 +79,7 @@ p{
     background-size: cover;
     background-position: 90% center;
     min-height: 650px;
-    position:relative;
+    position: relative;
 } 
 .home .home-banner-1{
     background-image:url('../images/slide1.jpg');
@@ -110,6 +110,7 @@ p{
     font-weight: 600;
     color:var(--text-danger);
 }
+*/
 /* Offer CSS */
 .offers{
     padding-top:8.75rem;
@@ -214,7 +215,7 @@ p{
 }
 .product-list .product-image .product-image-secondary{
     opacity: 0;
-    position:absolute;
+    position: absolute;
     left:0;
     right:0;
     top:0;

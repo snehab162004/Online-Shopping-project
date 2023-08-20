@@ -15,10 +15,12 @@
     overflow: auto;
     padding: 2rem;
     background-color: whitesmoke;
+    width: 230%;
   }
   
   a{
     color: black;
+ 
   }
   
   .dropdown:hover .dropdown-options {
