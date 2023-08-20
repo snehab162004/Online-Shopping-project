@@ -1,0 +1,28 @@
+.dropdown {
+    display: inline-block;
+    position: relative;
+   
+  }
+  button{
+    border: none;
+    background-color: transparent;
+    margin-top: 0.5rem;
+  }
+
+  .dropdown-options {
+    display: none;
+    position: absolute;
+    overflow: auto;
+    padding: 2rem;
+    background-color: whitesmoke;
+    width: 230%;
+  }
+  
+  a{
+    color: black;
+ 
+  }
+  
+  .dropdown:hover .dropdown-options {
+    display: block;
+  }
