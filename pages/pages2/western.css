@@ -82,14 +82,15 @@ p{
     position: relative;
 } 
 .home .home-banner-1{
-    background-image:url('/pages/pages1/traditional_imgs/homeimg.png');
+    background-image:url('/pages/pages2/images/image.jpg');
 }
 
 .home .home-banner .home-banner-text{
     position:absolute;
     top:50%;
     left:40%;
-    transform:translate(-110%, -50%)
+    transform:translate(-110%, -50%);
+    color: #f63440;
 }
 .home .home-banner .home-banner-text h1{
     font-size: 6rem;
